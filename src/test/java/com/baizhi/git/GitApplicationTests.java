@@ -11,7 +11,7 @@ public class GitApplicationTests {
 
     @Test
     public void contextLoads() {
-        System.out.println("嘻嘻");
+        System.out.println("nb");
     }
 
 }
